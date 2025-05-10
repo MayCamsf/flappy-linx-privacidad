@@ -6,7 +6,7 @@ Se da a conocer los términos de privacidad de Flappy Linx
 **Versión**: 1.1
 
 **Nombre de la aplicación**: Flappy Linx  
-**Desarrollador**: Mayro Studios
+**Desarrollador**: Luis Martinez Leon
 
 ---
 
